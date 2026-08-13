@@ -128,6 +128,6 @@ The system is capable of detecting and analyzing attacks such as:
 
 ---
 
-## License
+## 📄 License
 
-This project was developed as part of the **Bachelor of Technology (Computer Science and Engineering)** curriculum for academic and educational purposes.
+This project was developed as part of the **Bachelor of Technology (Computer Science and Engineering)** curriculum at **Rishi MS Institute of Engineering and Technology for Women** for academic and educational purposes.
